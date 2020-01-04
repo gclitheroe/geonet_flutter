@@ -1,0 +1,60 @@
+{
+  "@@last_modified": "2019-12-30T16:57:08.810867",
+  "title": "GeoNet Flutter",
+  "@title": {
+    "description": "Title for the application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "quakesTitle": "Quakes",
+  "@quakesTitle": {
+    "description": "Title for the quakes screen",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noQuakes": "Found no quakes to display for that intensity.",
+  "@noQuakes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Something went wrong!": "Something went wrong!",
+  "@Something went wrong!": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Please select a quake filter.": "Please select a quake filter.",
+  "@Please select a quake filter.": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Filter Quakes": "Filter Quakes",
+  "@Filter Quakes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Magnitude": "Magnitude",
+  "@Magnitude": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Depth": "Depth",
+  "@Depth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Quality": "Quality",
+  "@Quality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "earthquake": "earthquake",
+  "@earthquake": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "km": "km",
+  "@km": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

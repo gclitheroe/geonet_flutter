@@ -1,0 +1,1 @@
+export 'quakes_bloc.dart';

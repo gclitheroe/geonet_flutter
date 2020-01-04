@@ -1,0 +1,1582 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.0783081,
+          -38.54507065
+        ]
+      },
+      "properties": {
+        "publicID": "2019p981670",
+        "time": "2019-12-30T05:13:49.579Z",
+        "depth": 23.02728653,
+        "magnitude": 2.620937342,
+        "mmi": 3,
+        "locality": "10 km north of Gisborne",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.2604218,
+          -37.20141983
+        ]
+      },
+      "properties": {
+        "publicID": "2019p981647",
+        "time": "2019-12-30T05:02:00.166Z",
+        "depth": 23.18275452,
+        "magnitude": 3.299972914,
+        "mmi": 3,
+        "locality": "45 km north of Te Araroa",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.2248993,
+          -41.59260559
+        ]
+      },
+      "properties": {
+        "publicID": "2019p980940",
+        "time": "2019-12-29T22:44:51.377Z",
+        "depth": 12.32667542,
+        "magnitude": 3.026861951,
+        "mmi": 3,
+        "locality": "15 km north-east of Seddon",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.2359619,
+          -41.71538162
+        ]
+      },
+      "properties": {
+        "publicID": "2019p979776",
+        "time": "2019-12-29T12:25:08.332Z",
+        "depth": 15.65387058,
+        "magnitude": 2.464515891,
+        "mmi": 3,
+        "locality": "10 km east of Seddon",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3297577,
+          -37.90661621
+        ]
+      },
+      "properties": {
+        "publicID": "2019p978555",
+        "time": "2019-12-29T01:34:10.307Z",
+        "depth": 34.12936401,
+        "magnitude": 3.257462815,
+        "mmi": 3,
+        "locality": "10 km north of Opotiki",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.3207855,
+          -39.05252838
+        ]
+      },
+      "properties": {
+        "publicID": "2019p978302",
+        "time": "2019-12-28T23:19:48.651Z",
+        "depth": 66.08656311,
+        "magnitude": 3.466538409,
+        "mmi": 3,
+        "locality": "40 km south-east of Taupo",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.2207336,
+          -38.62924194
+        ]
+      },
+      "properties": {
+        "publicID": "2019p976651",
+        "time": "2019-12-28T08:40:06.976Z",
+        "depth": 4.811433792,
+        "magnitude": 2.984367651,
+        "mmi": 3,
+        "locality": "10 km north-east of Taupo",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.1990356,
+          -41.68499756
+        ]
+      },
+      "properties": {
+        "publicID": "2019p975408",
+        "time": "2019-12-27T21:37:37.208Z",
+        "depth": 12.62876892,
+        "magnitude": 2.870845681,
+        "mmi": 3,
+        "locality": "10 km east of Seddon",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.3449249,
+          -40.29200745
+        ]
+      },
+      "properties": {
+        "publicID": "2019p974194",
+        "time": "2019-12-27T10:50:49.324Z",
+        "depth": 21.93445206,
+        "magnitude": 3.032816712,
+        "mmi": 3,
+        "locality": "20 km south-east of Dannevirke",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.0986786,
+          -38.47788239
+        ]
+      },
+      "properties": {
+        "publicID": "2019p973934",
+        "time": "2019-12-27T08:32:29.526Z",
+        "depth": 27.19532204,
+        "magnitude": 2.798111188,
+        "mmi": 3,
+        "locality": "20 km south-west of Tolaga Bay",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.7217712,
+          -39.67012405
+        ]
+      },
+      "properties": {
+        "publicID": "2019p970451",
+        "time": "2019-12-26T01:36:31.820Z",
+        "depth": 23.62613869,
+        "magnitude": 3.064167644,
+        "mmi": 3,
+        "locality": "10 km west of Hastings",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.1728973,
+          -41.70881271
+        ]
+      },
+      "properties": {
+        "publicID": "2019p966494",
+        "time": "2019-12-24T14:28:01.325Z",
+        "depth": 9.330738068,
+        "magnitude": 2.171157851,
+        "mmi": 3,
+        "locality": "5 km south-east of Seddon",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1419525,
+          -38.96064377
+        ]
+      },
+      "properties": {
+        "publicID": "2019p965209",
+        "time": "2019-12-24T03:03:45.323Z",
+        "depth": 55.15790939,
+        "magnitude": 3.769651593,
+        "mmi": 3,
+        "locality": "25 km south of Taupo",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.8292542,
+          -39.68045807
+        ]
+      },
+      "properties": {
+        "publicID": "2019p960892",
+        "time": "2019-12-22T12:43:47.241Z",
+        "depth": 30.66379929,
+        "magnitude": 2.8327304,
+        "mmi": 3,
+        "locality": "Within 5 km of Hastings",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.2121124,
+          -43.59310532
+        ]
+      },
+      "properties": {
+        "publicID": "2019p959989",
+        "time": "2019-12-22T04:42:15.761Z",
+        "depth": 5,
+        "magnitude": 3.547279604,
+        "mmi": 3,
+        "locality": "15 km north-east of Mount Cook",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.6746368,
+          -43.61015701
+        ]
+      },
+      "properties": {
+        "publicID": "2019p959013",
+        "time": "2019-12-21T20:02:30.940Z",
+        "depth": 8.947753906,
+        "magnitude": 2.235621837,
+        "mmi": 3,
+        "locality": "Within 5 km of Methven",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9498596,
+          -40.17071915
+        ]
+      },
+      "properties": {
+        "publicID": "2019p955206",
+        "time": "2019-12-20T10:14:08.469Z",
+        "depth": 21.24845505,
+        "magnitude": 3.777619864,
+        "mmi": 4,
+        "locality": "25 km south of Whanganui",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1053619,
+          -39.62900162
+        ]
+      },
+      "properties": {
+        "publicID": "2019p954667",
+        "time": "2019-12-20T05:27:16.686Z",
+        "depth": 26.41648674,
+        "magnitude": 3.71181154,
+        "mmi": 4,
+        "locality": "25 km east of Taihape",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9031982,
+          -40.09113693
+        ]
+      },
+      "properties": {
+        "publicID": "2019p953217",
+        "time": "2019-12-19T16:35:18.766Z",
+        "depth": 23.13460732,
+        "magnitude": 2.702221511,
+        "mmi": 3,
+        "locality": "20 km south-west of Whanganui",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.1414642,
+          -41.848423
+        ]
+      },
+      "properties": {
+        "publicID": "2019p951634",
+        "time": "2019-12-19T02:30:55.485Z",
+        "depth": 10.19959927,
+        "magnitude": 3.219940607,
+        "mmi": 3,
+        "locality": "20 km south of Seddon",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.8807068,
+          -44.5720787
+        ]
+      },
+      "properties": {
+        "publicID": "2019p951438",
+        "time": "2019-12-19T00:46:34.580Z",
+        "depth": 23.20533371,
+        "magnitude": 2.905633527,
+        "mmi": 3,
+        "locality": "10 km north of Milford Sound",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.1174774,
+          -41.85624313
+        ]
+      },
+      "properties": {
+        "publicID": "2019p951407",
+        "time": "2019-12-19T00:29:39.819Z",
+        "depth": 9.922164917,
+        "magnitude": 3.248715778,
+        "mmi": 3,
+        "locality": "20 km south of Seddon",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.4098358,
+          -45.0177269
+        ]
+      },
+      "properties": {
+        "publicID": "2019p947774",
+        "time": "2019-12-17T16:14:23.589Z",
+        "depth": 98.25084686,
+        "magnitude": 4.408593245,
+        "mmi": 3,
+        "locality": "50 km north-west of Te Anau",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.6965485,
+          -42.30575943
+        ]
+      },
+      "properties": {
+        "publicID": "2019p946601",
+        "time": "2019-12-17T05:49:13.709Z",
+        "depth": 5.80523634,
+        "magnitude": 2.504249657,
+        "mmi": 3,
+        "locality": "10 km north of Kaikoura",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.7552338,
+          -39.10577393
+        ]
+      },
+      "properties": {
+        "publicID": "2019p946088",
+        "time": "2019-12-17T01:15:58.782Z",
+        "depth": 19.54153824,
+        "magnitude": 2.896712609,
+        "mmi": 3,
+        "locality": "25 km east of Wairoa",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.953598,
+          -39.05488968
+        ]
+      },
+      "properties": {
+        "publicID": "2019p945753",
+        "time": "2019-12-16T22:17:13.019Z",
+        "depth": 6.274392128,
+        "magnitude": 2.620901058,
+        "mmi": 3,
+        "locality": "10 km west of New Plymouth",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.8579712,
+          -39.77640152
+        ]
+      },
+      "properties": {
+        "publicID": "2019p945577",
+        "time": "2019-12-16T20:43:42.538Z",
+        "depth": 31.53769302,
+        "magnitude": 3.17772497,
+        "mmi": 3,
+        "locality": "10 km south of Hastings",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.8836823,
+          -38.68207169
+        ]
+      },
+      "properties": {
+        "publicID": "2019p945264",
+        "time": "2019-12-16T17:56:48.145Z",
+        "depth": 25.04404068,
+        "magnitude": 2.853391079,
+        "mmi": 3,
+        "locality": "10 km west of Gisborne",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.4511566,
+          -41.37470245
+        ]
+      },
+      "properties": {
+        "publicID": "2019p942959",
+        "time": "2019-12-15T21:28:56.754Z",
+        "depth": 15.65330029,
+        "magnitude": 2.744582384,
+        "mmi": 3,
+        "locality": "15 km south of Martinborough",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.9110718,
+          -40.54988861
+        ]
+      },
+      "properties": {
+        "publicID": "2019p942417",
+        "time": "2019-12-15T16:40:38.967Z",
+        "depth": 20.93780899,
+        "magnitude": 2.756716664,
+        "mmi": 3,
+        "locality": "20 km north-east of Eketahuna",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.217926,
+          -37.43017578
+        ]
+      },
+      "properties": {
+        "publicID": "2019p941652",
+        "time": "2019-12-15T09:52:23.841Z",
+        "depth": 132.9646454,
+        "magnitude": 5.013651095,
+        "mmi": 4,
+        "locality": "50 km north-west of Te Kaha",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.7119446,
+          -40.29179382
+        ]
+      },
+      "properties": {
+        "publicID": "2019p939921",
+        "time": "2019-12-14T18:30:09.358Z",
+        "depth": 14.25534248,
+        "magnitude": 2.685911307,
+        "mmi": 3,
+        "locality": "5 km east of Porangahau",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.758255,
+          -40.57880402
+        ]
+      },
+      "properties": {
+        "publicID": "2019p939026",
+        "time": "2019-12-14T10:33:28.784Z",
+        "depth": 24.44428635,
+        "magnitude": 2.899976368,
+        "mmi": 3,
+        "locality": "5 km north-east of Eketahuna",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1366882,
+          -39.25822449
+        ]
+      },
+      "properties": {
+        "publicID": "2019p938537",
+        "time": "2019-12-14T06:12:36.879Z",
+        "depth": 44.8106575,
+        "magnitude": 4.874175827,
+        "mmi": 4,
+        "locality": "40 km south-east of Turangi",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.2716217,
+          -37.92293549
+        ]
+      },
+      "properties": {
+        "publicID": "2019p938107",
+        "time": "2019-12-14T02:23:39.889Z",
+        "depth": 31.17632103,
+        "magnitude": 2.73074157,
+        "mmi": 3,
+        "locality": "10 km north of Opotiki",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9255829,
+          -39.97126007
+        ]
+      },
+      "properties": {
+        "publicID": "2019p937358",
+        "time": "2019-12-13T19:44:28.056Z",
+        "depth": 57.33584976,
+        "magnitude": 3.262136179,
+        "mmi": 3,
+        "locality": "10 km south-west of Whanganui",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.4282379,
+          -43.59767151
+        ]
+      },
+      "properties": {
+        "publicID": "2019p935429",
+        "time": "2019-12-13T02:36:50.544Z",
+        "depth": 5.484135628,
+        "magnitude": 2.922657135,
+        "mmi": 3,
+        "locality": "15 km south-west of Christchurch",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1103058,
+          -39.2651329
+        ]
+      },
+      "properties": {
+        "publicID": "2019p934724",
+        "time": "2019-12-12T20:21:25.246Z",
+        "depth": 42.00297546,
+        "magnitude": 3.804891041,
+        "mmi": 3,
+        "locality": "35 km south-east of Turangi",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.5488434,
+          -38.55500031
+        ]
+      },
+      "properties": {
+        "publicID": "2019p933804",
+        "time": "2019-12-12T12:11:08.199Z",
+        "depth": 33.55114365,
+        "magnitude": 3.261301507,
+        "mmi": 3,
+        "locality": "20 km south of Matawai",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1361389,
+          -40.80523682
+        ]
+      },
+      "properties": {
+        "publicID": "2019p933531",
+        "time": "2019-12-12T09:45:35.279Z",
+        "depth": 22.38612175,
+        "magnitude": 2.69871059,
+        "mmi": 3,
+        "locality": "10 km north-west of Castlepoint",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.6106415,
+          -39.76990509
+        ]
+      },
+      "properties": {
+        "publicID": "2019p933413",
+        "time": "2019-12-12T08:42:37.958Z",
+        "depth": 16.28626251,
+        "magnitude": 3.08791745,
+        "mmi": 3,
+        "locality": "20 km south-west of Hastings",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.5134277,
+          -41.23369217
+        ]
+      },
+      "properties": {
+        "publicID": "2019p931055",
+        "time": "2019-12-11T11:46:14.761Z",
+        "depth": 29.76292992,
+        "magnitude": 2.93327549,
+        "mmi": 3,
+        "locality": "20 km west of Wellington",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.7796478,
+          -42.26745605
+        ]
+      },
+      "properties": {
+        "publicID": "2019p928708",
+        "time": "2019-12-10T14:55:56.703Z",
+        "depth": 11.10098076,
+        "magnitude": 2.732137356,
+        "mmi": 3,
+        "locality": "15 km north-east of Kaikoura",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.7749329,
+          -42.26084137
+        ]
+      },
+      "properties": {
+        "publicID": "2019p928694",
+        "time": "2019-12-10T14:48:40.972Z",
+        "depth": 12.42042542,
+        "magnitude": 3.869994476,
+        "mmi": 4,
+        "locality": "15 km north-east of Kaikoura",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.1521301,
+          -43.51667786
+        ]
+      },
+      "properties": {
+        "publicID": "2019p928680",
+        "time": "2019-12-10T14:40:45.558Z",
+        "depth": 9.04158783,
+        "magnitude": 3.04257217,
+        "mmi": 3,
+        "locality": "20 km south of Oxford",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.8506775,
+          -42.51805496
+        ]
+      },
+      "properties": {
+        "publicID": "2019p927836",
+        "time": "2019-12-10T07:11:32.052Z",
+        "depth": 12.95230675,
+        "magnitude": 2.703855629,
+        "mmi": 3,
+        "locality": "15 km south-east of Kaikoura",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.0373383,
+          -38.86630249
+        ]
+      },
+      "properties": {
+        "publicID": "2019p927398",
+        "time": "2019-12-10T03:17:42.425Z",
+        "depth": 31.46714973,
+        "magnitude": 2.883020863,
+        "mmi": 3,
+        "locality": "20 km south of Gisborne",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.0595093,
+          -40.0456543
+        ]
+      },
+      "properties": {
+        "publicID": "2019p927100",
+        "time": "2019-12-10T00:39:17.434Z",
+        "depth": 29.10989189,
+        "magnitude": 3.168007054,
+        "mmi": 3,
+        "locality": "10 km south of Whanganui",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.0682831,
+          -38.87031174
+        ]
+      },
+      "properties": {
+        "publicID": "2019p927023",
+        "time": "2019-12-09T23:58:01.907Z",
+        "depth": 29.01327896,
+        "magnitude": 5.386604292,
+        "mmi": 6,
+        "locality": "20 km south of Gisborne",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.7866211,
+          -40.55719376
+        ]
+      },
+      "properties": {
+        "publicID": "2019p925844",
+        "time": "2019-12-09T13:29:52.658Z",
+        "depth": 18.72440338,
+        "magnitude": 2.851036712,
+        "mmi": 3,
+        "locality": "10 km north-east of Eketahuna",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.8675385,
+          -42.47782516
+        ]
+      },
+      "properties": {
+        "publicID": "2019p924677",
+        "time": "2019-12-09T03:08:10.564Z",
+        "depth": 6.467481136,
+        "magnitude": 2.584780811,
+        "mmi": 3,
+        "locality": "5 km north-east of Hanmer Springs",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.2728424,
+          -41.73337173
+        ]
+      },
+      "properties": {
+        "publicID": "2019p923871",
+        "time": "2019-12-08T19:58:30.912Z",
+        "depth": 11.4024086,
+        "magnitude": 2.577086157,
+        "mmi": 3,
+        "locality": "15 km south-east of Seddon",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.3235016,
+          -41.6222496
+        ]
+      },
+      "properties": {
+        "publicID": "2019p922945",
+        "time": "2019-12-08T11:45:37.130Z",
+        "depth": 10.52109337,
+        "magnitude": 3.490513059,
+        "mmi": 4,
+        "locality": "20 km east of Seddon",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.312973,
+          -41.61088562
+        ]
+      },
+      "properties": {
+        "publicID": "2019p922888",
+        "time": "2019-12-08T11:14:55.460Z",
+        "depth": 10.26145172,
+        "magnitude": 3.078644393,
+        "mmi": 3,
+        "locality": "20 km east of Seddon",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.3623199,
+          -41.63700104
+        ]
+      },
+      "properties": {
+        "publicID": "2019p922847",
+        "time": "2019-12-08T10:52:53.590Z",
+        "depth": 9.677827835,
+        "magnitude": 4.155399073,
+        "mmi": 4,
+        "locality": "20 km east of Seddon",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.8817596,
+          -42.68751144
+        ]
+      },
+      "properties": {
+        "publicID": "2019p922182",
+        "time": "2019-12-08T04:58:36.105Z",
+        "depth": 8.518964767,
+        "magnitude": 2.649608852,
+        "mmi": 3,
+        "locality": "10 km north of Culverden",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.496048,
+          -38.32987213
+        ]
+      },
+      "properties": {
+        "publicID": "2019p921078",
+        "time": "2019-12-07T19:10:28.642Z",
+        "depth": 49.80112839,
+        "magnitude": 3.234005741,
+        "mmi": 3,
+        "locality": "Within 5 km of Matawai",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.7687073,
+          -39.92293549
+        ]
+      },
+      "properties": {
+        "publicID": "2019p920574",
+        "time": "2019-12-07T14:42:22.220Z",
+        "depth": 26.47248268,
+        "magnitude": 2.788226639,
+        "mmi": 3,
+        "locality": "20 km north-east of Waipukurau",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.1946716,
+          -41.08333588
+        ]
+      },
+      "properties": {
+        "publicID": "2019p919380",
+        "time": "2019-12-07T04:05:52.096Z",
+        "depth": 17.3591938,
+        "magnitude": 2.47528233,
+        "mmi": 3,
+        "locality": "10 km east of Upper Hutt",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.7276611,
+          -39.35686874
+        ]
+      },
+      "properties": {
+        "publicID": "2019p918652",
+        "time": "2019-12-06T21:37:54.528Z",
+        "depth": 26.64978981,
+        "magnitude": 3.381679384,
+        "mmi": 3,
+        "locality": "40 km south-east of Wairoa",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.7641754,
+          -44.10773468
+        ]
+      },
+      "properties": {
+        "publicID": "2019p916584",
+        "time": "2019-12-06T03:16:03.829Z",
+        "depth": 3.712782383,
+        "magnitude": 3.95219988,
+        "mmi": 3,
+        "locality": "30 km south-west of Haast",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.9523926,
+          -38.68290329
+        ]
+      },
+      "properties": {
+        "publicID": "2019p916472",
+        "time": "2019-12-06T02:16:18.352Z",
+        "depth": 29.22953033,
+        "magnitude": 2.656614051,
+        "mmi": 3,
+        "locality": "5 km west of Gisborne",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.5008698,
+          -40.33531189
+        ]
+      },
+      "properties": {
+        "publicID": "2019p914416",
+        "time": "2019-12-05T08:01:04.590Z",
+        "depth": 27.49492455,
+        "magnitude": 2.675751378,
+        "mmi": 3,
+        "locality": "10 km west of Palmerston North",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.8308716,
+          -42.26776886
+        ]
+      },
+      "properties": {
+        "publicID": "2019p912425",
+        "time": "2019-12-04T14:20:23.183Z",
+        "depth": 10.65847301,
+        "magnitude": 3.032242474,
+        "mmi": 3,
+        "locality": "15 km north-east of Kaikoura",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.5388031,
+          -37.6003685
+        ]
+      },
+      "properties": {
+        "publicID": "2019p912263",
+        "time": "2019-12-04T12:53:58.395Z",
+        "depth": 174.6848755,
+        "magnitude": 4.558430526,
+        "mmi": 3,
+        "locality": "30 km east of Tauranga",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.5066833,
+          -40.32104874
+        ]
+      },
+      "properties": {
+        "publicID": "2019p912140",
+        "time": "2019-12-04T11:48:37.645Z",
+        "depth": 28.32019615,
+        "magnitude": 2.648149138,
+        "mmi": 3,
+        "locality": "10 km north-west of Palmerston North",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.1990967,
+          -45.99655533
+        ]
+      },
+      "properties": {
+        "publicID": "2019p911960",
+        "time": "2019-12-04T10:12:27.871Z",
+        "depth": 11.84387684,
+        "magnitude": 3.401754467,
+        "mmi": 3,
+        "locality": "40 km west of Tuatapere",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.0343018,
+          -41.85413742
+        ]
+      },
+      "properties": {
+        "publicID": "2019p910519",
+        "time": "2019-12-03T21:24:43.837Z",
+        "depth": 8.813996315,
+        "magnitude": 2.884991956,
+        "mmi": 3,
+        "locality": "20 km south of Seddon",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.8802032,
+          -38.56208801
+        ]
+      },
+      "properties": {
+        "publicID": "2019p910159",
+        "time": "2019-12-03T18:12:57.710Z",
+        "depth": 15.31692028,
+        "magnitude": 2.451950019,
+        "mmi": 3,
+        "locality": "15 km north-west of Gisborne",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.1464691,
+          -37.80205917
+        ]
+      },
+      "properties": {
+        "publicID": "2019p905072",
+        "time": "2019-12-01T21:02:34.396Z",
+        "depth": 27.87074471,
+        "magnitude": 3.02306537,
+        "mmi": 3,
+        "locality": "15 km north-west of Ruatoria",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.5418854,
+          -43.6076355
+        ]
+      },
+      "properties": {
+        "publicID": "2019p902288",
+        "time": "2019-11-30T20:19:32.596Z",
+        "depth": 5.474001884,
+        "magnitude": 2.648161668,
+        "mmi": 3,
+        "locality": "5 km west of Methven",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.547226,
+          -43.60653305
+        ]
+      },
+      "properties": {
+        "publicID": "2019p902264",
+        "time": "2019-11-30T20:06:39.249Z",
+        "depth": 4.307820797,
+        "magnitude": 3.098449941,
+        "mmi": 3,
+        "locality": "5 km west of Methven",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.8822632,
+          -40.60293579
+        ]
+      },
+      "properties": {
+        "publicID": "2019p901966",
+        "time": "2019-11-30T17:28:30.146Z",
+        "depth": 24.34721947,
+        "magnitude": 2.985578011,
+        "mmi": 3,
+        "locality": "15 km east of Eketahuna",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.5579376,
+          -43.6110611
+        ]
+      },
+      "properties": {
+        "publicID": "2019p901754",
+        "time": "2019-11-30T15:34:54.630Z",
+        "depth": 5.479465485,
+        "magnitude": 2.541304514,
+        "mmi": 3,
+        "locality": "5 km west of Methven",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.5506592,
+          -43.60482788
+        ]
+      },
+      "properties": {
+        "publicID": "2019p901682",
+        "time": "2019-11-30T14:56:11.982Z",
+        "depth": 6.30724287,
+        "magnitude": 4.266923399,
+        "mmi": 5,
+        "locality": "5 km west of Methven",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.8838501,
+          -39.27221298
+        ]
+      },
+      "properties": {
+        "publicID": "2019p899269",
+        "time": "2019-11-29T17:30:41.615Z",
+        "depth": 23.56778145,
+        "magnitude": 4.470447242,
+        "mmi": 4,
+        "locality": "45 km south-east of Wairoa",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.1798553,
+          -37.49629211
+        ]
+      },
+      "properties": {
+        "publicID": "2019p897061",
+        "time": "2019-11-28T21:54:30.363Z",
+        "depth": 12,
+        "magnitude": 2.817803637,
+        "mmi": 3,
+        "locality": "20 km north-west of Te Araroa",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.6930237,
+          -40.90242004
+        ]
+      },
+      "properties": {
+        "publicID": "2019p896895",
+        "time": "2019-11-28T20:26:05.960Z",
+        "depth": 18.30673409,
+        "magnitude": 2.5140215,
+        "mmi": 3,
+        "locality": "5 km north-east of Masterton",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.2127838,
+          -41.61244202
+        ]
+      },
+      "properties": {
+        "publicID": "2019p896293",
+        "time": "2019-11-28T15:05:16.880Z",
+        "depth": 19.11449432,
+        "magnitude": 2.453257032,
+        "mmi": 3,
+        "locality": "10 km north-east of Seddon",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.1261749,
+          -40.88457108
+        ]
+      },
+      "properties": {
+        "publicID": "2019p892032",
+        "time": "2019-11-27T01:14:55.113Z",
+        "depth": 27.89394188,
+        "magnitude": 2.88437075,
+        "mmi": 3,
+        "locality": "10 km east of Paraparaumu",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.8982849,
+          -44.55815887
+        ]
+      },
+      "properties": {
+        "publicID": "2019p889683",
+        "time": "2019-11-26T04:23:38.972Z",
+        "depth": 5,
+        "magnitude": 3.579453337,
+        "mmi": 4,
+        "locality": "10 km north of Milford Sound",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.0576019,
+          -39.44943237
+        ]
+      },
+      "properties": {
+        "publicID": "2019p884181",
+        "time": "2019-11-24T03:31:49.203Z",
+        "depth": 25.09765816,
+        "magnitude": 2.638638983,
+        "mmi": 3,
+        "locality": "10 km east of Napier",
+        "quality": "best"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.8470764,
+          -40.62477875
+        ]
+      },
+      "properties": {
+        "publicID": "2019p883783",
+        "time": "2019-11-24T00:00:10.360Z",
+        "depth": 21.77433395,
+        "magnitude": 3.072495966,
+        "mmi": 3,
+        "locality": "10 km east of Eketahuna",
+        "quality": "best"
+      }
+    }
+  ]
+}
